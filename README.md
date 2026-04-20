@@ -4,7 +4,7 @@ Este repositorio contiene material visual y teórico sobre el cálculo integral,
 
 ---
 
-## 📊 Infografía de Integración
+## 📊 Infografía de Integración no definida
 Aquí está la versión visual del material. 
 
 ![Infografía de Integración](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-II/blob/main/infografia_integrales_basicas.png)
